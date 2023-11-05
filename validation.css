@@ -1,0 +1,47 @@
+body{
+    background-image: url(../IMAGE/188384056-3d-rendering-of-spaceship-corridor-neon-glowing-blue-purple-background-futuristic-cyberpunk-concept.webp);
+    
+}
+
+
+
+
+
+
+#box2{
+    border: 1px solid black;
+     height: 500px;
+     width: 380px;
+     text-align: center;
+     font-size: large;
+     line-height: 30px;
+     margin-left: 450px;
+     margin-top: 80px;
+     background-image: url(../IMAGE/chai-7916889_960_720.webp);
+     border-radius: 5px;
+}
+
+#twitter{
+    color: white;
+    background-color: rgb(29,161,242);
+    border: 1px solid rgb(29,161,242);
+}
+#fb{
+    color: white;
+    background-color: rgb(72,103,170);
+    border: 1px solid rgb(72,103,170);
+}
+
+input{
+    border: 1px solid pink;
+    background-color: antiquewhite;
+}
+#green{
+    color: white;
+    background-color: blue;
+    border: 1px solid blue;
+    border-radius: 2px;
+    height: 22px;
+    width: 60px;
+    cursor: pointer;
+}
